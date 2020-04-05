@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MoviePedia/static/css/main.d96254e6.chunk.css",
+    "main.js": "/MoviePedia/static/js/main.951ec553.chunk.js",
+    "main.js.map": "/MoviePedia/static/js/main.951ec553.chunk.js.map",
+    "runtime-main.js": "/MoviePedia/static/js/runtime-main.a3662d88.js",
+    "runtime-main.js.map": "/MoviePedia/static/js/runtime-main.a3662d88.js.map",
+    "static/js/2.b0f535c9.chunk.js": "/MoviePedia/static/js/2.b0f535c9.chunk.js",
+    "static/js/2.b0f535c9.chunk.js.map": "/MoviePedia/static/js/2.b0f535c9.chunk.js.map",
+    "index.html": "/MoviePedia/index.html",
+    "precache-manifest.9ffc6851ceda8b4f19c9f9d8885e6f34.js": "/MoviePedia/precache-manifest.9ffc6851ceda8b4f19c9f9d8885e6f34.js",
+    "service-worker.js": "/MoviePedia/service-worker.js",
+    "static/css/main.d96254e6.chunk.css.map": "/MoviePedia/static/css/main.d96254e6.chunk.css.map",
+    "static/js/2.b0f535c9.chunk.js.LICENSE.txt": "/MoviePedia/static/js/2.b0f535c9.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/MoviePedia/static/media/spinner.3d806475.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3662d88.js",
+    "static/js/2.b0f535c9.chunk.js",
+    "static/css/main.d96254e6.chunk.css",
+    "static/js/main.951ec553.chunk.js"
+  ]
+}
