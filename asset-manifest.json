@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/MoviePedia/static/css/main.d96254e6.chunk.css",
-    "main.js": "/MoviePedia/static/js/main.12fa7502.chunk.js",
-    "main.js.map": "/MoviePedia/static/js/main.12fa7502.chunk.js.map",
+    "main.js": "/MoviePedia/static/js/main.98e767ef.chunk.js",
+    "main.js.map": "/MoviePedia/static/js/main.98e767ef.chunk.js.map",
     "runtime-main.js": "/MoviePedia/static/js/runtime-main.a3662d88.js",
     "runtime-main.js.map": "/MoviePedia/static/js/runtime-main.a3662d88.js.map",
-    "static/js/2.b0f535c9.chunk.js": "/MoviePedia/static/js/2.b0f535c9.chunk.js",
-    "static/js/2.b0f535c9.chunk.js.map": "/MoviePedia/static/js/2.b0f535c9.chunk.js.map",
+    "static/js/2.4f763a1c.chunk.js": "/MoviePedia/static/js/2.4f763a1c.chunk.js",
+    "static/js/2.4f763a1c.chunk.js.map": "/MoviePedia/static/js/2.4f763a1c.chunk.js.map",
     "index.html": "/MoviePedia/index.html",
-    "precache-manifest.7e3e1b82fc7433373fd7b2c3ef48d4d8.js": "/MoviePedia/precache-manifest.7e3e1b82fc7433373fd7b2c3ef48d4d8.js",
+    "precache-manifest.d382eb3886c0bff96d80ecee300126fc.js": "/MoviePedia/precache-manifest.d382eb3886c0bff96d80ecee300126fc.js",
     "service-worker.js": "/MoviePedia/service-worker.js",
     "static/css/main.d96254e6.chunk.css.map": "/MoviePedia/static/css/main.d96254e6.chunk.css.map",
-    "static/js/2.b0f535c9.chunk.js.LICENSE.txt": "/MoviePedia/static/js/2.b0f535c9.chunk.js.LICENSE.txt",
+    "static/js/2.4f763a1c.chunk.js.LICENSE.txt": "/MoviePedia/static/js/2.4f763a1c.chunk.js.LICENSE.txt",
     "static/media/spinner.gif": "/MoviePedia/static/media/spinner.3d806475.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.a3662d88.js",
-    "static/js/2.b0f535c9.chunk.js",
+    "static/js/2.4f763a1c.chunk.js",
     "static/css/main.d96254e6.chunk.css",
-    "static/js/main.12fa7502.chunk.js"
+    "static/js/main.98e767ef.chunk.js"
   ]
 }
