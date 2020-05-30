@@ -9,12 +9,12 @@ class Footer extends Component{
                     <div className="footer p-3 mt-4 text-center bg-dark text-light">
                         Developed By:
                         <span className="text-warning font-weight-normal">
-                            <a href="https://www.linkedin.com/in/rishu-raj-308263172/" target='_blank'>
+                            <a href="https://www.linkedin.com/in/rishu-raj-308263172/" target='_blank' rel="noopener noreferrer">
                             Rishu Raj
                             </a>
                         </span>
                         ,Using   <i className="fab fa-react" />   React JS   &amp;   Redux JS Integrated with external movies data API
-                        <a href="http://www.omdbapi.com/" target="_blank">
+                        <a href="https://www.omdbapi.com/" target="_blank" rel="noopener noreferrer">
                             OMDB
                         </a>
                     </div>
@@ -24,6 +24,5 @@ class Footer extends Component{
         )
     }
 }
-
 
 export default Footer;

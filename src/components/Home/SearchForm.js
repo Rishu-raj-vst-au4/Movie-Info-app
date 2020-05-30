@@ -8,6 +8,8 @@ class SearchForm extends Component{
         this.props.searchMovie(e.target.value);
     }
     handleSubmit = e =>{
+        console.log("clicked");
+        
         e.preventDefault();
         this.props.FetchMovies(this.props.text)
     }

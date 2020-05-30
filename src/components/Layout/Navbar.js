@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import {Link} from "react-router-dom";
 
 
 class Navbar extends Component{
@@ -8,10 +9,10 @@ class Navbar extends Component{
                 <nav className="navbar navbar-dark bg-dark">
                     <div className="container">
                         <div className="navbar-header">
-                            <a className="navbar-brand text-white text lg brand-text" href="#">
+                            <Link className="navbar-brand text-white text lg brand-text" to="/">
                              MoviePedia
 
-                            </a>
+                            </Link>
 
                         </div>
                         <ul className="navbar-nav ml-auto text-light d-inline-block">
